@@ -1,0 +1,7 @@
+!.gitignore
+**.git
+.idea
+**.gitattributes
+**.sass-cache
+*.env*
+composer.json
